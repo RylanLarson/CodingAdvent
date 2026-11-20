@@ -35,10 +35,7 @@ def main():
                     rolls_removed += 1
                     removed_this_pass += 1
                     grid[r][c] = '.'
-                    
-
-                print(removed_this_pass)
-                
+                                 
             
         if removed_this_pass == 0:
             break
