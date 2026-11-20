@@ -1,7 +1,5 @@
 def main():
-    print("Hello, World!")
-
-
+  
     numsZero = 0
     currentVal = 50
 
